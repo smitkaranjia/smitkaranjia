@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smit Karanjia</h1>
-<h3 align="center">I am prefinal year electronics and communication engineering student</h3>
+<h3 align="center">I am final year electronics and communication engineering student</h3>
 
 - 📫 How to reach me **smitkaranjia842@gmail.com**
 
